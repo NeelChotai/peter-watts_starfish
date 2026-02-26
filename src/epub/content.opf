@@ -38,7 +38,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A crew of psychologically damaged misfits is sent to maintain a geothermal power station on the ocean floor, where the abyss begins to change them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/peter-watts"&gt;Peter Watts's&lt;/a&gt; debut novel follows a crew of "rifters"—individuals selected for deep-sea work precisely because of their psychological damage—as they maintain a geothermal power station at the bottom of the Pacific Ocean. Cut off from the surface world and adapted to the crushing pressure of the deep, Lenie Clarke and her fellow rifters begin to discover that the abyss is more hospitable than the world they left behind.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/peter-watts"&gt;Peter Watts’s&lt;/a&gt; debut novel follows a crew of “rifters”—individuals selected for deep-sea work precisely because of their psychological damage—as they maintain a geothermal power station at the bottom of the Pacific Ocean. Cut off from the surface world and adapted to the crushing pressure of the deep, Lenie Clarke and her fellow rifters begin to discover that the abyss is more hospitable than the world they left behind.&lt;/p&gt;
 			&lt;p&gt;First published in 1999, &lt;i&gt;Starfish&lt;/i&gt; is the opening volume of the Rifters trilogy, blending hard science fiction with psychological horror. Watts draws on his background in marine biology to create a vivid and scientifically grounded portrait of life in the deep ocean.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -48,7 +48,7 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Starfish_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-watts_starfish</meta>
-		<meta property="belongs-to-collection" id="collection-1">Rifters</meta>
+		<meta id="collection-1" property="belongs-to-collection">Rifters</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:creator id="author">Peter Watts</dc:creator>

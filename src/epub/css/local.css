@@ -28,6 +28,7 @@ section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
 }
+
 section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
