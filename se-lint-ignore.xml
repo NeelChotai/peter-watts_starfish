@@ -30,4 +30,246 @@
 			<reason>URL contains periods.</reason>
 		</ignore>
 	</file>
+	<file path="prelude.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-1.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-2.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-5.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-6.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-7.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-8.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-9.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-10.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-12.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-13.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-14.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-15.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-2.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-3.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-4.xhtml">
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-5.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-6.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Author's deliberate mid-sentence paragraph endings.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-8.xhtml">
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-17.xhtml">
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-18.xhtml">
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-19.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-20.xhtml">
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-21.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-003</code>
+			<reason>Author's deliberate mid-sentence paragraph endings.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-24.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Author's em-dash continuation paragraph style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-006</code>
+			<reason>Author's contracted-prefix neologisms.</reason>
+		</ignore>
+		<ignore>
+			<code>y-007</code>
+			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
