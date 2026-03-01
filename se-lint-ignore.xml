@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="cover.jpg">
+		<ignore>
+			<code>s-028</code>
+			<reason>Placeholder cover image; final cover art not yet selected.</reason>
+		</ignore>
+	</file>
 	<file path="colophon.xhtml">
 		<ignore>
 			<code>m-036</code>
@@ -10,6 +16,12 @@
 		<ignore>
 			<code>f-003</code>
 			<reason>Uncopyright adapted for CC BY-NC-SA 2.5 licensing; this book is not public domain.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-042</code>
+			<reason>Manual fix: removed duplicate cover-image property from cover.svg (se build-manifest bug adds it to both cover.jpg and cover.svg).</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

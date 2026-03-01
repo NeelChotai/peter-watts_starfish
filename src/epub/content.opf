@@ -44,7 +44,7 @@
 		<dc:language>en-CA</dc:language>
 		<dc:source>https://rifters.com/real/Starfish.htm</dc:source>
 		<meta property="se:production-notes">Converted from the author's Creative Commons-licensed HTML release at rifters.com. The original used OpenOffice HTML export with windows-1252 encoding. Symbol font beta characters (ßehemoth) were normalized to standard Latin characters.</meta>
-		<meta property="se:word-count">102969</meta>
+		<meta property="se:word-count">102552</meta>
 		<meta property="se:reading-ease.flesch">84.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Starfish_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-watts_starfish</meta>
