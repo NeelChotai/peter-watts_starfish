@@ -6,18 +6,6 @@
 			<reason>Cover artist and producer template variables not yet filled in; using placeholder cover art.</reason>
 		</ignore>
 	</file>
-	<file path="content.opf">
-		<ignore>
-			<code>m-036</code>
-			<reason>Cover artist and producer template variables not yet filled in; using placeholder cover art.</reason>
-		</ignore>
-	</file>
-	<file path="cover.svg">
-		<ignore>
-			<code>m-063</code>
-			<reason>Using placeholder cover image; cover art compliance relaxed for this non-SE-repository build.</reason>
-		</ignore>
-	</file>
 	<file path="uncopyright.xhtml">
 		<ignore>
 			<code>f-003</code>
