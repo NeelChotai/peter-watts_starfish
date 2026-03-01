@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="LICENSE.md">
+		<ignore>
+			<code>f-003</code>
+			<reason>CC BY-NC-SA 2.5 licensing; this book is not public domain.</reason>
+		</ignore>
+	</file>
 	<file path="cover.jpg">
 		<ignore>
 			<code>s-028</code>
@@ -35,8 +41,16 @@
 			<code>y-007</code>
 			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
 		</ignore>
+		<ignore>
+			<code>y-018</code>
+			<reason>Possessive apostrophe after italicized genus name — grammatically correct.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-1-1.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
 		<ignore>
 			<code>t-057</code>
 			<reason>Author's em-dash continuation paragraph style.</reason>
@@ -52,8 +66,22 @@
 	</file>
 	<file path="chapter-1-2.xhtml">
 		<ignore>
+			<code>t-004</code>
+			<reason>Author's contracted-prefix neologism — opening apostrophe is an elision mark, not a quotation mark.</reason>
+		</ignore>
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+		<ignore>
 			<code>y-007</code>
 			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-4.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-1-5.xhtml">
@@ -63,6 +91,14 @@
 		</ignore>
 	</file>
 	<file path="chapter-1-6.xhtml">
+		<ignore>
+			<code>t-004</code>
+			<reason>Author's contracted-prefix neologism — opening apostrophe is an elision mark, not a quotation mark.</reason>
+		</ignore>
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
 		<ignore>
 			<code>t-057</code>
 			<reason>Author's em-dash continuation paragraph style.</reason>
@@ -134,6 +170,14 @@
 	</file>
 	<file path="chapter-1-14.xhtml">
 		<ignore>
+			<code>t-004</code>
+			<reason>Author's contracted-prefix neologism — opening apostrophe is an elision mark, not a quotation mark.</reason>
+		</ignore>
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+		<ignore>
 			<code>t-057</code>
 			<reason>Author's em-dash continuation paragraph style.</reason>
 		</ignore>
@@ -148,8 +192,18 @@
 	</file>
 	<file path="chapter-1-15.xhtml">
 		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+		<ignore>
 			<code>y-007</code>
 			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-1.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-2.xhtml">
@@ -163,6 +217,10 @@
 		</ignore>
 	</file>
 	<file path="chapter-2-3.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
 		<ignore>
 			<code>t-057</code>
 			<reason>Author's em-dash continuation paragraph style.</reason>
@@ -178,6 +236,10 @@
 	</file>
 	<file path="chapter-2-4.xhtml">
 		<ignore>
+			<code>t-004</code>
+			<reason>Author's contracted-prefix neologism — opening apostrophe is an elision mark, not a quotation mark.</reason>
+		</ignore>
+		<ignore>
 			<code>y-006</code>
 			<reason>Author's contracted-prefix neologisms.</reason>
 		</ignore>
@@ -187,6 +249,14 @@
 		</ignore>
 	</file>
 	<file path="chapter-2-5.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+		<ignore>
+			<code>t-023</code>
+			<reason>Author's italicized thought fragment preceding dialog close.</reason>
+		</ignore>
 		<ignore>
 			<code>t-057</code>
 			<reason>Author's em-dash continuation paragraph style.</reason>
@@ -202,7 +272,17 @@
 			<reason>Author's deliberate mid-sentence paragraph endings.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2-7.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-8.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
 		<ignore>
 			<code>y-006</code>
 			<reason>Author's contracted-prefix neologisms.</reason>
@@ -210,6 +290,46 @@
 		<ignore>
 			<code>y-007</code>
 			<reason>Author's contracted-prefix neologisms ('skin, 'scaphe, etc.).</reason>
+		</ignore>
+		<ignore>
+			<code>y-030</code>
+			<reason>Author's intentional stuttered/impaired speech.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-12.xhtml">
+		<ignore>
+			<code>t-019</code>
+			<reason>Single-word emphasis; terminal period is sentence punctuation, not italic content.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-13.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-14.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Author's intentionally interrupted dialog.</reason>
+		</ignore>
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
+		<ignore>
+			<code>t-038</code>
+			<reason>Author's intentionally interrupted dialog.</reason>
+		</ignore>
+		<ignore>
+			<code>t-051</code>
+			<reason>Author's intentionally interrupted dialog.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-15.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-17.xhtml">
@@ -223,6 +343,10 @@
 		</ignore>
 	</file>
 	<file path="chapter-2-18.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
 		<ignore>
 			<code>y-006</code>
 			<reason>Author's contracted-prefix neologisms.</reason>
@@ -239,6 +363,10 @@
 		</ignore>
 	</file>
 	<file path="chapter-2-20.xhtml">
+		<ignore>
+			<code>t-004</code>
+			<reason>Author's contracted-prefix neologism — opening apostrophe is an elision mark, not a quotation mark.</reason>
+		</ignore>
 		<ignore>
 			<code>y-006</code>
 			<reason>Author's contracted-prefix neologisms.</reason>
@@ -258,7 +386,17 @@
 			<reason>Author's deliberate mid-sentence paragraph endings.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2-22.xhtml">
+		<ignore>
+			<code>t-021</code>
+			<reason>Author's instrument readout format — machine display text with no spaces in measurements.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-24.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Author's italicized internal monologue style: comma inside italics is part of the thought fragment.</reason>
+		</ignore>
 		<ignore>
 			<code>t-057</code>
 			<reason>Author's em-dash continuation paragraph style.</reason>
