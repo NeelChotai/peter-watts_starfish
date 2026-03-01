@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-CA">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/peter-watts/starfish</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
@@ -41,7 +41,7 @@
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/peter-watts"&gt;Peter Watts’s&lt;/a&gt; debut novel follows a crew of “rifters”—individuals selected for deep-sea work precisely because of their psychological damage—as they maintain a geothermal power station at the bottom of the Pacific Ocean. Cut off from the surface world and adapted to the crushing pressure of the deep, Lenie Clarke and her fellow rifters begin to discover that the abyss is more hospitable than the world they left behind.&lt;/p&gt;
 			&lt;p&gt;First published in 1999, &lt;i&gt;Starfish&lt;/i&gt; is the opening volume of the Rifters trilogy, blending hard science fiction with psychological horror. Watts draws on his background in marine biology to create a vivid and scientifically grounded portrait of life in the deep ocean.&lt;/p&gt;
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-CA</dc:language>
 		<dc:source>https://rifters.com/real/Starfish.htm</dc:source>
 		<meta property="se:production-notes">Converted from the author's Creative Commons-licensed HTML release at rifters.com. The original used OpenOffice HTML export with windows-1252 encoding. Symbol font beta characters (ßehemoth) were normalized to standard Latin characters.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
