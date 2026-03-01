@@ -24,4 +24,10 @@
 			<reason>Manual fix: removed duplicate cover-image property from cover.svg (se build-manifest bug adds it to both cover.jpg and cover.svg).</reason>
 		</ignore>
 	</file>
+	<file path="references.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>URL contains periods.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
